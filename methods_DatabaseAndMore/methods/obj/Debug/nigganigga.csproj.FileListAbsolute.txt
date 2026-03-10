@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\nigganigga\nigganigga\bin\Debug\nigganigga.exe.config
+C:\Users\user\source\repos\nigganigga\nigganigga\bin\Debug\nigganigga.exe
+C:\Users\user\source\repos\nigganigga\nigganigga\bin\Debug\nigganigga.pdb
+C:\Users\user\source\repos\nigganigga\nigganigga\obj\Debug\nigganigga.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\nigganigga\nigganigga\obj\Debug\nigganigga.Form1.resources
+C:\Users\user\source\repos\nigganigga\nigganigga\obj\Debug\nigganigga.Properties.Resources.resources
+C:\Users\user\source\repos\nigganigga\nigganigga\obj\Debug\nigganigga.csproj.GenerateResource.cache
+C:\Users\user\source\repos\nigganigga\nigganigga\obj\Debug\nigganigga.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\nigganigga\nigganigga\obj\Debug\nigganigga.exe
+C:\Users\user\source\repos\nigganigga\nigganigga\obj\Debug\nigganigga.pdb
+C:\Users\user\source\repos\nigganigga\nigganigga\obj\Debug\nigganigga.exe.config
+C:\Users\user\source\repos\nigganigga\nigganigga\obj\Debug\nigganigga.Form2.resources
